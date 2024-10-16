@@ -1,0 +1,3 @@
+MyProject
+Animal:legs(int);hasFur(bool);height(double);name(string)
+Car:brand(string);model(string);year(int)

@@ -1,0 +1,17 @@
+{
+  "name": "c-apigenerator",
+  "version": "0.0.0",
+  "description": "C#APIGenerator",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
